@@ -22,3 +22,6 @@ ensure JayPersistentFlashlight
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Credits / Thanks
+>** ~Shadow~#0678** for preview photos
